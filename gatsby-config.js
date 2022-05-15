@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `The @rakhadjo story`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rakha Djokosoetono`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Rakha Djokosoetono Blog Site`,
+    siteUrl: `https://blog.rakhadjo.me/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `rakhadjo`,
+      twitter: `rakhadjo`,
+      facebook: `rakhadjo`
     },
   },
   plugins: [
